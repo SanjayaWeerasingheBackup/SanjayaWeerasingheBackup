@@ -1,7 +1,6 @@
 # Hi, I'm Sanjaya Weerasinghe 👋
 
 <div align="center">
-<img src="header.svg" width="800" height="400" alt="header">
 
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](../../issues/new?title=Ask+Claude&body=Type+your+question+here)
 

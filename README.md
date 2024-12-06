@@ -1,41 +1,53 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sanjaya;Welcome+to+my+Profile" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=SanjayaWeerasingheBackup&data=followers,repositories,stars,commits&theme=midnight" alt="GitHub Profile Stats"/>
-</div>
-
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Sanjaya Weerasinghe"
-        self.location = "🌏 Kandy, Sri Lanka"
-        self.interests = ["Software Development", "Problem Solving", "Tech Innovation"]
-        self.contact = "sanjayaweerasingheofficial@gmail.com"
-        self.linkedin = "in/sanjaya-weerasinghe"
-
-    def get_current_status(self):
-        return {
-            "focus": "Building innovative solutions",
-            "learning": ["New Technologies", "Best Practices"],
-            "looking_for": "Exciting collaboration opportunities"
-        }
+```css
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿[SYSTEM ONLINE]⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjayaWeerasingheBackup&show_icons=true&theme=midnight&bg_color=0D1117&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaWeerasingheBackup&theme=midnight&background=0D1117&hide_border=true" />
+  
+### `> IDENTIFY SUBJECT:`
+# `Sanjaya Weerasinghe`
+
+### `> LOCATION:`
+# `[KANDY_SRI_LANKA]`
+
+### `> SYSTEM STATUS:`
+```diff
++ ROOT ACCESS GRANTED
++ SYSTEMS OPERATIONAL
++ NEURAL NETWORK ACTIVE
+```
+
+### `> CORE SKILLS:`
+```python
+{
+    'code': ['Python', 'JavaScript', 'Java'],
+    'tools': ['Git', 'Docker', 'Linux'],
+    'focus': ['Cybersecurity', 'Software Development'],
+    'status': 'Always learning | Never stopping'
+}
+```
+
+### `> METRICS:`
+![Metrics](https://metrics.lecoq.io/SanjayaWeerasingheBackup?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FColombo)
+
+### `> TRACE ACTIVITY:`
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=SanjayaWeerasingheBackup&theme=matrix&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF)](https://github.com/SanjayaWeerasingheBackup)
+
+### `> EXECUTE CONTACT PROTOCOLS:`
+```python
+def contact_me():
+    email = "sanjayaweerasingheofficial@gmail.com"
+    linkedin = "in/sanjaya-weerasinghe"
+    return f"Initialize connection via: {email} || {linkedin}"
+```
+
+### `> SYSTEM UPTIME:`
+![Uptime](https://github-readme-streak-stats.herokuapp.com/?user=SanjayaWeerasingheBackup&theme=matrix&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+
 </div>
 
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="mailto:sanjayaweerasingheofficial@gmail.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sanjaya-weerasinghe"><img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayaWeerasingheBackup&theme=high-contrast&bg_color=0D1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&hide_border=true" width="100%"/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjayaWeerasingheBackup&color=7F5AF0&style=for-the-badge">
-</p>
+```css
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[CONNECTION TERMINATED]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
